@@ -1,2 +1,2 @@
 # HackatruckDesafios
-Todos os desafios cumpridos durante o Hackatruck.
+Alguns dos desafios cumpridos durante o Hackatruck.
